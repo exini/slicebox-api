@@ -4,7 +4,7 @@ info:
   title: Slicebox API
   description: Slicebox - safe sharing of medical images
   contact:
-    url: 'http://github.org/slicebox/slicebox'
+    url: 'http://github.org/exini/slicebox'
   license:
     name: Apache 2.0 License
     url: 'http://opensource.org/licenses/Apache-2.0'
