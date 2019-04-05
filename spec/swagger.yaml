@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  version: '2.0'
+  version: '2.1'
   title: Slicebox API
   description: Slicebox - safe sharing of medical images
   contact:
